@@ -3,6 +3,7 @@
 
 /about.js
 /home.js
-/middlewareusers.js
 /login.js
 /register.js
+# /findusers.js
+# /services.js
